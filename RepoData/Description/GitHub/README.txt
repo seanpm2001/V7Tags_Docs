@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+㊂7️⃣️🔖️📖️ V7Tags (a numeronym for VerboseTags) is an experimental verbose tagging system for a semantic web, that contains a tag for every single aspect of the media it represents. This can result in a 10 second video having tens/hundreds of thousands of tags. This is the official documentation source repository for V7Tags.
